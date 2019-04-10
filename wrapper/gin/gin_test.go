@@ -1,4 +1,5 @@
-package gin
+package gin_test
+
 
 import (
 	"net/http"
